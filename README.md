@@ -8,18 +8,19 @@ You can either prefix them with an absolute path OR determine a relative path at
 
 ## Installation
 
-_npm_
-`npm install remark-obsidian-img`
+```shell
+// npm  
+npm install remark-obsidian-img
 
-_yarn_
-`yarn add remark-obsidian-img`
+// yarn
+yarn add remark-obsidian-img
 
-_pnpm__
-`pnpm install remark-obsidian-img`
+// pnpm  
+pnpm install remark-obsidian-img
 
-_bun__
-`bun install remark-obsidian-img`
-
+// bun  
+bun install remark-obsidian-img
+```
 ## Config
 
 This plugin takes the following config options. You must supply one of the below.
